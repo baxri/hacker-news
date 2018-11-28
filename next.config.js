@@ -1,0 +1,1 @@
+const SWPreCachWebpackPlugin = require('sw-precache-webpack-plugin');
